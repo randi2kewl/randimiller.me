@@ -7,9 +7,9 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: 'Blog by Randi Miller',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'The archive of thoughts about mostly tech, self-improvement and productivity.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -27,11 +27,11 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
+      name: 'Randi Miller',
+      email: 'mail@randimiller.me',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'sergeanthacker',
+      github: 'randi2kewl',
       rss: '#',
       vk: '#',
     },
