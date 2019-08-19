@@ -11,7 +11,7 @@ module.exports = {
     subtitle:
       'The archive of thoughts about mostly tech, self-improvement and productivity.',
     copyright: '© All rights reserved.',
-    disqusShortname: '',
+    disqusShortname: 'randimiller-me',
     menu: [
       {
         label: 'Articles',
