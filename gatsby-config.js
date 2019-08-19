@@ -32,7 +32,7 @@ module.exports = {
       telegram: '#',
       twitter: 'sergeanthacker',
       github: 'randi2kewl',
-      rss: '#',
+      rss: 'https://randimiller.me/rss.xml',
       vk: '#',
     },
   },
