@@ -1,0 +1,41 @@
+.contact-form {
+  margin-top: 100px;
+
+  label {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: grey;
+  }
+
+  input,
+  textarea {
+    border: none;
+    border-bottom: 1px solid lightgrey;
+    width: 100%;
+    max-width: 520px;
+    margin: auto;
+    text-align: center;
+
+    &:focus {
+      outline: none;
+    }
+  }
+
+  textarea {
+    height: 5rem;
+  }
+
+  .send-button {
+    text-align: center;
+
+    button {
+      background: green;
+      color: white;
+      font-weight: bold;
+      font-size: 1.25rem;
+      padding: 1rem 3rem;
+      margin: 3rem auto;
+    }
+  }
+}
