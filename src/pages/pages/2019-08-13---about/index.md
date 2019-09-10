@@ -20,9 +20,11 @@ My name is Randi Miller and I have been working in the tech industry for about a
 
 ## Subscribe
 
+[Subscribe via RSS](/rss.xml)
+
 ## Contact
 
-Feel free to reach out to me at [mail@randimiller.me](mailto:mail@randimiller.me) for personal or blog related interactions or [hello@moderngeek.io](mailto:hello@moderngeek.io) for professional services.
+Feel free to reach out to me at [mail@randimiller.me](mailto:mail@randimiller.me) for personal / blog related interactions or [hello@moderngeek.io](mailto:hello@moderngeek.io) for professional services. If you prefer to use a contact form then [visit the contact page](/contact/).
 
 ## My Top Posts
 
