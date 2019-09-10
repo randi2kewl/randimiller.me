@@ -17,7 +17,7 @@ If you are looking to contact me, there are several ways:
 
 Fill out the following form to get in contact with me or just send me puppy GIFs.
 
-<form class="contact-form" name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+<form class="contact-form" name="contact" method="POST" action="/contact-thanks" netlify-honeypot="bot-field" data-netlify="true">
   <p style="display:none;" class="hidden">
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
   </p>
