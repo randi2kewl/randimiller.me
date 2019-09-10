@@ -6,7 +6,7 @@ path: '/contact-thanks'
 
 Thank you for submitting a contact request. I'll get to your email shortly.
 
-<img src="http://giphygifs.s3.amazonaws.com/media/pFwRzOLfuGHok/giphy.gif" />
+<img src="https://giphygifs.s3.amazonaws.com/media/pFwRzOLfuGHok/giphy.gif" />
 
 Check me out and follow me on social media while you wait:
 
