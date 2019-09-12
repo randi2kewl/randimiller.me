@@ -1,5 +1,5 @@
 ---
-title: Stop form spam with Honeypot
+title: Stop form spam with a Honeypot
 date: '2019-08-19T16:00:00.000Z'
 layout: post
 draft: false
