@@ -18,13 +18,13 @@ This challenge is about who can earn the most money in 60 days from a new servic
 
 The rules:
 
-    - The product or service can't be anything that you have made or done in the past to earn money *unless* you are selling it in a different way.
+- The product or service can't be anything that you have made or done in the past to earn money _unless_ you are selling it in a different way.
 
-    - The winner will be the person who earned the most money over the course of the 60 days.
+- The winner will be the person who earned the most money over the course of the 60 days.
 
-    - The person that makes the least amount of money will buy beers and burgers for the others.
+- The person that makes the least amount of money will buy beers and burgers for the others.
 
-    - All "losers" will need to blast the winner's product(s) or service(s) every day for one week on social media.
+- All "losers" will need to blast the winner's product(s) or service(s) every day for one week on social media.
 
 I have a few ideas already that I'm going to attempt. The first one is what I am naming "Beer Money Optimizer." This is a Chrome Extension to help people that do tasks on GPT sites to optimize their time on the sites and figure out where they are earning the most money.
 
