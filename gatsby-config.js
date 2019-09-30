@@ -25,6 +25,10 @@ module.exports = {
         label: 'Contact me',
         path: '/contact/',
       },
+      {
+        label: 'Recruiters',
+        path: '/recruiters/',
+      },
     ],
     author: {
       name: 'Randi Miller',
