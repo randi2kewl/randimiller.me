@@ -17,7 +17,7 @@ JSON, short for JavaScript Object Notation, is a portable data interchange forma
 
 There are six characters used to build a proper JSON document: `[ ] { } : ,`
 
-The typical structure is starting with `[{` and ending with `}]`. The other variation if you don't need names is to just use `[]` surrounding the items (see arrays below) or just a single value type.
+The typical structure is starting with `[{` and ending with `}]` which is an array of object nodes. The other variation if you don't need names is to just use `[]` surrounding the items (see arrays below) or just a single value type.
 
 Each of these characters can have whitespace before or after them. Whitespace is defined as a space, horizontal tab, line feed (new line) or carriage return.
 
