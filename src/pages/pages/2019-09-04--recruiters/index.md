@@ -101,7 +101,7 @@ Wordpress plugin for creating FAQ Accordion blocks in Gutenberg.
 
 I believe that technical tests are good for school and engagement with junior level developers to qualify that they have enough knowledge to be productive at work.
 
-For me personally, I have spent a decade now proving that I have the technical aptitude to get the job done. If that is in question then you can always look at my prior work, talk to a long list of references that I have and also look at open source work. In the last 10 years, I have done well over 10,000 hours of development. No, I am not the best at knowledge retention but I have learned to teach or re-teach myself things at an extraordinary pace.
+For me personally, I have spent a decade now proving that I have the technical aptitude to get the job done. If that is in question then you can always look at my prior work, talk to a long list of references that I have and also look at open source work. In the last 10 years, I have done well over 10,000 hours<sup>[1](#footnote-1)</sup> of development. No, I am not the best at knowledge retention but I have learned to teach or re-teach myself things at an extraordinary pace.
 
 If testing applicants is a _must_ for your position then please pass me up. You will waste both of our time. Feel free to ask questions about my skills but I will by no means take a timed test to prove anything to your or the employer.
 
@@ -117,3 +117,9 @@ When I am not programming, I am playing video games (MMOs) or spending time with
 
 - Read the [About Me page](/about) on my website.
 - Check out my [LinkedIn profile](https://www.linkedin.com/in/randilmiller/).
+
+---
+
+### Footnotes
+
+<sup id="footnote-1">1</sup> The 10,000 hours is in reference to the book [_Outliers: The Story of Success_ by Malcolm Gladwell](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930/ref=sr_1_1?keywords=outliers&qid=1570322898&sr=8-1) where he presents the theory that a person becomes an expert in an area after 10,000 hours of practicing the subject matter.
