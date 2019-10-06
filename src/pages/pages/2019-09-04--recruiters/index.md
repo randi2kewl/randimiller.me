@@ -97,6 +97,16 @@ Wordpress plugin for creating FAQ Accordion blocks in Gutenberg.
 
 ---
 
+## Why do you not take tests?
+
+I believe that technical tests are good for school and engagement with junior level developers to qualify that they have enough knowledge to be productive at work.
+
+For me personally, I have spent a decade now proving that I have the technical aptitude to get the job done. If that is in question then you can always look at my prior work, talk to a long list of references that I have and also look at open source work. In the last 10 years, I have done well over 10,000 hours of development. No, I am not the best at knowledge retention but I have learned to teach or re-teach myself things at an extraordinary pace.
+
+If testing applicants is a _must_ for your position then please pass me up. You will waste both of our time. Feel free to ask questions about my skills but I will by no means take a timed test to prove anything to your or the employer.
+
+---
+
 ## What are your hobbies?
 
 When I am not programming, I am playing video games (MMOs) or spending time with my spouse and dog. I do enjoy hiking and doing "city walks" on nice breezy days.
