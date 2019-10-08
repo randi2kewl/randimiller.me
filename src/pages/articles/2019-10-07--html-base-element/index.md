@@ -8,7 +8,7 @@ category: 'Development'
 tags:
   - 'HTML'
   - 'Discovering Series'
-description: 'This is a post reviewing the JSON specifications.'
+description: 'This is a post reviewing the HTML base element.'
 ---
 
 The `<base />` element in the HTML schema<sup>[1](#footnote-1)</sup> is used for declaring a location for relative links. It's setting the _base_ url and target for links.
