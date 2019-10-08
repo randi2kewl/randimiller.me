@@ -11,7 +11,7 @@ tags:
 description: 'This is a post reviewing the JSON specifications.'
 ---
 
-The `<base />` element in the HTML schema is used for declaring a location for relative links. It's setting the _base_ url and target for links.
+The `<base />` element in the HTML schema<sup>[1](#footnote-1)</sup> is used for declaring a location for relative links. It's setting the _base_ url and target for links.
 
 The base tag can be used in either the head (most common) or the body as long as there is only one in the document. If more than one exists then it will use one then throw out the rest.
 
@@ -40,3 +40,7 @@ If you wanted to have all links point to Twitter profiles then you can do the fo
 This will prefix all of the relative links with the base URL. For example, `href="wesbos"` becomes `https://twitter.com/wesbos` and opening in a new tab because of the `target="_blank"`.
 
 This is useful if you need all of the links to point to another domain than the one you are using. It could be useful when working with a development page where you need to link to the live pages.
+
+[Test in Codepen](https://codepen.io/randi2kewl/pen/KKKwyoG)
+
+<sup id="footnote-1">1</sup> [HTML 5.2 - 4.2.3. The base element](https://www.w3.org/TR/html52/document-metadata.html#the-base-element)
