@@ -58,7 +58,7 @@ experimenting is the biggest benefit of being a developer.
 
 <p><strong>Chief Technology Officer / Director of Development</strong></p>
 <p>
-I have over 4 years of experience in leading teams and having oversight of the development process
+I have over a decade of experience in leading teams and having oversight of the development process
 for several projects. Working with budgets, development efficiency, and hiring has been my a love
 of mine and will continue to be.
 </p>
