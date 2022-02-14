@@ -135,8 +135,7 @@ business to give one.
 
 <p>
 For contract work, I work at $125/hr unless you are an agency which then I'll break that down to fit within the realm of
-what your business charges. Expect to answer what the question of what your hourly billing of my services is. Within
-reason, I hover around 65% of cost-to-client.
+what your business charges.
 </p>
 <hr />
 
