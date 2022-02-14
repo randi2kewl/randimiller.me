@@ -1,6 +1,7 @@
 import preprocess from 'svelte-preprocess';
 import tailwind from 'tailwindcss';
 import autoprefixer from 'autoprefixer';
+import adapter from '@sveltejs/adapter-netlify';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -9,9 +10,11 @@ const config = {
 	preprocess: preprocess(),
 
 	kit: {
-		// hydrate the <div id="svelte"> element in src/app.html
-		target: '#svelte'
+            // hydrate the <div id="svelte"> element in src/app.html
+            target: '#svelte',
+            adapter: adapter(),
 	}
 };
+
 
 export default config;
