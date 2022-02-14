@@ -26,7 +26,7 @@ requirements.
 <h2 id="what-you-doing">What are you currently doing?</h2>
 
 <p>
-I am currently doing contract devellopment with a select few long-term clients.
+I am currently doing contract development with a select few long-term clients.
 </p>
 
 <hr />
