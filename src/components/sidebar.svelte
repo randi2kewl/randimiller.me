@@ -18,6 +18,7 @@
         <li><a href="/about">About me</a></li>
         <li><a href="/links">Links</a></li>
         <li><a href="/recruiters">Recruiters</a></li>
+        <li><a href="/contact">Contact</a></li>
     </ul>
 </nav>
 

@@ -37,7 +37,13 @@
     <a href="kit.svelte.dev">Sveltekit</a>. You can find the sourcecode <a href="https://github.com/randi2kewl/randimiller.me">
      in my Github repo</a>.
 </p>
-<p>I alternate between VIM and Visual Studio Code as my IDE depending on my mood. Usually, VSC these days though unless I&#39;m working directly on a server.</p>
+<p>I alternate between NVIM and Visual Studio Code as my IDE depending on my mood. Usually, <strike>VSC</strike> NVIM these days though unless I&#39;m working directly on a server.</p>
+
+<hr>
+
+<h2 id="courses-taking">Courses</h2>
+<p>I am currently taking the <a href="https://www.coursera.org/learn/the-science-of-well-being/">The Science of
+    Well-Being</a> course provided by Yale University.</p>
 
 <hr>
 
