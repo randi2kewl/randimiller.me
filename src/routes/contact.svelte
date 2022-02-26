@@ -9,7 +9,7 @@ let phone = "";
 
 <Title title="Contact Me" />
 
-<form name="contact" method="POST" data-netlify="true" netlify-honeypot="honey-dew" data-netlify-recaptcha="true">
+<form name="contact" action="/contact-success" method="POST" data-netlify="true" netlify-honeypot="honey-dew" data-netlify-recaptcha="true">
   <p class="hidden">
     <label>
       Don’t fill this out if you’re human: <input name="honey-dew" />
