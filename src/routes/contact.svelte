@@ -13,7 +13,6 @@ let phone = "";
 <Title title="Contact Me" />
 
 <form class="contact-form" name="contact" method="POST" action="/contact-success" netlify-honeypot="bot-field" data-netlify="true">
-    <input type="hidden" name="contact" value="test" />
   <p class="hidden">
     <label>
       Don’t fill this out if you’re human: <input name="bot-field" />
