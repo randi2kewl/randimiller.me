@@ -17,8 +17,9 @@ let phone = "";
       method="POST" 
       action="/contact-success" 
       netlify-honeypot="bot-field" 
-      data-netlify="true"
-      data-netlify-recaptcha="true">
+      target="_blank" 
+      data-netlify="true">
+
   <p class="hidden">
     <label>
       Don’t fill this out if you’re human: <input name="bot-field" />
