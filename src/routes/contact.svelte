@@ -12,7 +12,13 @@ let phone = "";
 
 <Title title="Contact Me" />
 
-<form class="contact-form" name="contact" method="POST" action="/contact-success" netlify-honeypot="bot-field" data-netlify="true">
+<form class="contact-form" 
+      name="contact" 
+      method="POST" 
+      action="/contact-success" 
+      netlify-honeypot="bot-field" 
+      data-netlify="true"
+      data-netlify-recaptcha="true">
   <p class="hidden">
     <label>
       Don’t fill this out if you’re human: <input name="bot-field" />
@@ -90,6 +96,9 @@ let phone = "";
 
             </div>
           </div>
+
+          
+          <div data-netlify-recaptcha="true"></div>
 
           <div class="px-4 py-3 bg-gray-50 text-right sm:px-6">
 
