@@ -9,10 +9,10 @@ let phone = "";
 
 <Title title="Contact Me" />
 
-<form name="contact-form" id="contact-form" action="/contact-success" method="POST" netlify>
+<form class="contact-form" name="hcontact" method="POST" action="/contact-thanks" netlify-honeypot="bot-field" data-netlify="true">
   <p class="hidden">
     <label>
-      Don’t fill this out if you’re human: <input name="honey-dew" />
+      Don’t fill this out if you’re human: <input name="bot-field" />
     </label>
   </p>
 
