@@ -1,3 +1,6 @@
+<script context="module">
+        export const prerender = true;
+</script>
 <script>
     import Title from '../components/title.svelte';
 
