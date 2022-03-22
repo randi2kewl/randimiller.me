@@ -123,20 +123,12 @@ expenditures that would normally be covered by a salary job (healthcare, vacatio
 <h2 id="salary-req">What are your salary requirements?</h2>
 
 <p>
-That's a loaded question! My contract and salary rates change based on a few variables.
-</p>
-
-<p>
-For a full-time position, I will be in the $150,000-230,000 range. This is highly dependent on factors like flexibility
+That's a loaded question! My contract and salary rates change based on a few variables. This is highly dependent on factors like flexibility
 of work hours, benefits package, in-office vs remote, how much I like you, etc. There is a lot of wiggle room. If you
 have a number in mind then fire it off but I won't give you a specific number until I have learned enough about your
 business to give one.
 </p>
 
-<p>
-For contract work, I work at $125/hr unless you are an agency which then I'll break that down to fit within the realm of
-what your business charges.
-</p>
 <hr />
 
 <h2 id="resume">Resume</h2>
