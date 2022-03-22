@@ -12,9 +12,11 @@ something on my site to answer questions in a more productive way.
 
 <p>This page should clear up some things to make it an easier process for us.</p>
 
+<a href="#resume">Jump to Resume</a>
+
 <hr />
 
-<h2 id="are-you-looking-for-a-job-">Are you looking for a job?</h2>
+<h2 id="are-you-looking-for-a-job">Are you looking for a job?</h2>
 
 <p>
 In short, yes. I am reviewing potential opportunities that meet my personal and professional
@@ -30,7 +32,7 @@ I am currently doing contract development with a select few long-term clients.
 </p>
 
 <hr />
-<h2 id="will-you-relocate-">Will you relocate?</h2>
+<h2 id="will-you-relocate">Will you relocate?</h2>
 
 <p>Sorry, currently not entertaining positions that require relocating.</p>
 <p>
@@ -40,7 +42,7 @@ Mixed positions must be within a reasonable drive from Atlanta or Greensboro, Ge
 
 <hr />
 
-<h2 id="what-position-are-you-looking-for-">What position are you looking for?</h2>
+<h2 id="what-position-are-you-looking-for">What position are you looking for?</h2>
 
 <p>I am willing to do the following positions:</p>
 
@@ -150,6 +152,9 @@ business to give one.
         </p>
     </li>
 </ul>
+
+<p>If those aren't enough for you then check out my <a href="https://www.linkedin.com/in/randilmiller/">LinkedIn Profile</a> and the references on there.</p>
+
 <hr />
 <h2 id="portfolio">Portfolio</h2>
 <p>Here are some of the most recent things that I have worked on:</p>
