@@ -228,7 +228,7 @@
 <h2 id="why-do-you-not-take-tests-">Why do you not take tests?</h2>
 <p>
 	I believe that technical tests are good for school and engagement with junior level developers to
-	qualify that they have enough knowledge to be productive at work.
+	qualify that they have enough knowledge to be productive at work. However, I welcome and enjoy technical discussions.
 </p>
 <p>
 	For me personally, I have spent a decade now proving that I have the technical aptitude to get the
@@ -240,7 +240,7 @@
 <p>
 	If testing applicants is a <em>must</em> for your position then please pass me up. You will waste both
 	of our time. Feel free to ask questions about my skills but I will by no means take a timed test to
-	prove anything. Technical discussions are welcomed.
+	prove anything.
 </p>
 <hr />
 <h2 id="what-are-your-hobbies-">What are your hobbies?</h2>
