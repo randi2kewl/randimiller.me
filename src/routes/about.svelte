@@ -17,7 +17,7 @@
 <p>
     My name is Randi Miller and I have been working in the tech industry for more than a decade now. 
     I have worked roles as a developer, team lead, director and consultant for startups and large organizations. 
-    I currently provide CTO-level services for clients thru <a href="https://moderngeek.io">Modern Geek</a> 
+    I currently provide temporary CTO, development and consulting services for clients thru <a href="https://moderngeek.io">Modern Geek</a> 
     to help them get their products built.
 </p>
 

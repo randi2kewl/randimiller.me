@@ -14,10 +14,10 @@
         <!--
         <li><a href="/">Home</a></li>
         <li><a href="/blog">Articles</a></li>
-        <li><a href="/contact">Contact me</a></li>
         -->
         <li><a href="/about">About me</a></li>
         <li><a href="/links">Links</a></li>
+        <li><a href="/portfolio">Portfolio</a></li>
         <li><a href="/recruiters">Recruiters</a></li>
         <li><a href="/contact">Contact</a></li>
     </ul>
