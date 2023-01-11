@@ -3,7 +3,7 @@
     import PortfolioItem from '../components/portfolio_item.svelte';
 
     const portfolio_items = [
-        { title: "Kwalu", logo: "images/kwalu_logo.png", main: "images/kwalu.png", link: "/portfolio/kwalu", filters: ['web', 'backend', 'api']},
+        { title: "Kwalu", logo: "images/kwalu_logo.png", main: "images/kwalu.png", link: "/portfolio/kwalu", filters: ['web', 'backend', 'api', 'wordpress', 'php', 'css']},
         { title: "MoveHQ", logo: "images/barefoot_logo.png", main: "images/movehq.png", link: "", filters: ['api', 'backend',] },    
         { title: "Big Contacts", logo: "images/sureswift_logo.svg", main: "images/big_contacts.jpeg", link: "", filters: ['web', 'backend', 'frontend'] },    
         { title: "Mysite Auditor", logo: "images/sureswift_logo.svg", main: "images/mysiteauditor.png", link: "", filters: ['web', 'backend', 'frontend'] },    
@@ -20,6 +20,8 @@
         { title: "Solohealth", logo: "images/solohealth_logo.png", main: "images/solohealth_kiosk.png", link: "", filters: ['software', 'backend', 'frontend', 'api'] },    
     ];
 
+    const filter_options = ['all', 'api', 'app', 'backend', 'frontend', 'web', 'ruby', 'php', 'database', 'wordpress', 'css'];
+
     let filter = 'all';
 
     const filterItems = (filter, portfolio_items) => 
@@ -29,13 +31,14 @@
 
 <Title title="Portfolio of Work" />
 
-<span>Filters: </span>
-<button class="hover:underline" on:click={() => filter = 'all'}>All</button> |
-<button class="hover:underline" on:click={() => filter = 'api'}>Api</button> | 
-<button class="hover:underline" on:click={() => filter = 'app'}>App</button> |
-<button class="hover:underline" on:click={() => filter = 'backend'}>Backend</button> | 
-<button class="hover:underline" on:click={() => filter = 'frontend'}>Frontend</button> | 
-<button class="hover:underline" on:click={() => filter = 'web'}>Web</button>
+<div class="flex justify-end">
+    <select name="filters" id="filters" bind:value={filter}>
+        {#each filter_options.sort() as option}
+        <option value="{option}">{option.charAt(0).toUpperCase() + option.slice(1)}</option> 
+        {/each}
+    </select>
+</div>
+
 
 <section class="grid grid-cols-3 gap-4 mt-8">
     {#each filterItems(filter, portfolio_items) as item}
