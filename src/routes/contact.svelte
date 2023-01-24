@@ -116,8 +116,6 @@
           </div>
 
           
-          <div data-netlify-recaptcha="true"></div>
-
           <div class="px-4 py-3 bg-gray-50 text-right sm:px-6">
 
             <a class="bg-transparent hover:bg-blue-600 text-blue-600 font-semibold hover:text-white py-2 px-4 border
