@@ -16,7 +16,6 @@
 <form class="contact-form" 
       name="contact"
       action="/contact-success" 
-      netlify-honeypot="bot-field"
       netlify>
 
   <p class="hidden">
