@@ -14,7 +14,7 @@
 <Title title="Contact Me" />
 
 <form class="contact-form" 
-      name="contact"
+      name="contact-form"
       action="/contact-success" 
       netlify>
 
