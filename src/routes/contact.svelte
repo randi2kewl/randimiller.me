@@ -24,13 +24,6 @@
       .then(() => console.log("Form successfully submitted"))
       .catch((error) => alert(error));
   };
-
-  onMount(() => {
-    document
-      .querySelector("form")
-      .addEventListener("submit", handleSubmit);
-  });
-
 </script>
 
 <Title title="Contact Me" />
@@ -40,6 +33,7 @@
       method="POST" 
       action="/contact-success" 
       netlify-honeypot="bot-field" 
+      on:submit|preventDefault={handleSubmit}
       target="_blank" 
       data-netlify="true">
 
