@@ -9,33 +9,15 @@
   let last_name = "";
   let email = "";
   let phone = "";
-
-  const handleSubmit = (event) => {
-    event.preventDefault();
-
-    const myForm = event.target;
-    const formData = new FormData(myForm);
-    
-    fetch("/", {
-      method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: new URLSearchParams(formData).toString(),
-    })
-      .then(() => console.log("Form successfully submitted"))
-      .catch((error) => alert(error));
-  };
 </script>
 
 <Title title="Contact Me" />
 
 <form class="contact-form" 
-      name="contact" 
-      method="POST" 
+      name="contact"
       action="/contact-success" 
-      netlify-honeypot="bot-field" 
-      on:submit|preventDefault={handleSubmit}
-      target="_blank" 
-      data-netlify="true">
+      netlify-honeypot="bot-field"
+      netlify>
 
   <p class="hidden">
     <label>
