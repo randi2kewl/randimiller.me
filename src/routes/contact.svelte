@@ -1,33 +1,36 @@
 <script context="module">
   export const prerender = true;
 
+  import { onMount } from 'svelte';
+
   import Title from '../components/title.svelte';
 
   let first_name = "";
   let last_name = "";
   let email = "";
   let phone = "";
-</script>
 
-<script>
   const handleSubmit = (event) => {
-  event.preventDefault();
+    event.preventDefault();
 
-  const myForm = event.target;
-  const formData = new FormData(myForm);
-  
-  fetch("/", {
-    method: "POST",
-    headers: { "Content-Type": "application/x-www-form-urlencoded" },
-    body: new URLSearchParams(formData).toString(),
-  })
-    .then(() => console.log("Form successfully submitted"))
-    .catch((error) => alert(error));
-};
+    const myForm = event.target;
+    const formData = new FormData(myForm);
+    
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: new URLSearchParams(formData).toString(),
+    })
+      .then(() => console.log("Form successfully submitted"))
+      .catch((error) => alert(error));
+  };
 
-document
-  .querySelector("form")
-  .addEventListener("submit", handleSubmit);
+  onMount(() => {
+    document
+      .querySelector("form")
+      .addEventListener("submit", handleSubmit);
+  });
+
 </script>
 
 <Title title="Contact Me" />
