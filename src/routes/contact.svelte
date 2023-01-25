@@ -13,13 +13,7 @@
 
 <Title title="Contact Me" />
 
-<form class="contact-form" 
-      name="contact-form"
-      method="post"
-      enctype="application/x-www-form-urlencoded"
-      autocomplete="on"
-      action="/contact-success" 
-      netlify>
+<form name="contact-form" method="post" autocomplete="on" action="/contact-success" netlify>
 
   <p class="hidden">
     <label>
